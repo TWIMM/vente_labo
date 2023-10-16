@@ -5,7 +5,7 @@ class Database {
     
     private $host = 'localhost';
     private $username = 'root';
-    private $password = 'Huguebosse007';
+    private $password = '';
     private $dbname = 'pharmacie';
     private $conn;
 
